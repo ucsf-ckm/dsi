@@ -1,0 +1,9 @@
+student_id,Name,Courses,TextBooks
+1,San Zhang,"Math 20A, History 1A, French 4C ","Calculus, History, French Language Study"
+2,Don Alvarrez,"Math 20A, Physics 4A, CS 18","Calculus, Intro Physics, Intro CS"
+3,Suzie McKenzy,"Math 187A Math 188, CS 202","Differential Equations, Real Analysis, Advanced Algorithms, Basic UNIX (Optional)"
+4,Aaron Doucet,"History 150, English 110A, CS 42","World History Reader, Ulysses, Number Theory with Applications"
+5,Caitlin Andersen,"Math 20A, History 4A, CS 18","Calculus, Intro to US History, Functional Programming with LISP, Basic UNIN"
+6,Hirotaka Sato,"Math 20A, History 1A, French 50A","Calculus, Intro to US History, French Literature Reader, Manon Lescaut"
+7,Beth Wiejenski,"Math 187A Math 188, EE 101","Differential Equations, Real Analysis, Fundamental Circuit Design"
+8,Veronica LaPlace,"History 150, Bio 202, CS 42","Translations of Early Historical Text, Introduction to Latin (Optional), Organic Chemistry, Number Theory with Applications"
