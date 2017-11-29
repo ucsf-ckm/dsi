@@ -1,10 +1,10 @@
 # Data Science Initiative
 Sample code and other artifacts for data science and analytics at the CKM
 
-## [Overview](overview)
+## Overview
 This repository contains code samples during programming and pizza, consulting sessions, workshops, and other events offerend through the UCSF Library's Data Science Initiative.  
 
-### Advanced-Data-Manipulation-08-10-2017	
+### [Advanced-Data-Manipulation-08-10-2017](Advanced-Data-Manipulation-08-10-2017)
 Repository for in class python exercises for a workshop on using SQL and Pandas together for data wrangling. 
 
 ### Max-Min-Range-Queries
