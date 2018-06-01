@@ -11,7 +11,7 @@ Repository for in class python exercises for a workshop on using SQL and Pandas 
 Using sql with dataframes to select rows where a max and min value occurs when there are multiple rows with a measurement.
 
 ### [BeyondBasicSQL](BeyondBasicSQL)
-Powerpoint and supporting files for workshop on database creation, normalization
+Powerpoint and supporting files for workshop on database creation, normalization.
 
 ### [Now-Playing-Event](Now-Playing-Event)
 Python notebook for field input, basic logic, assignment, and control flow, charting, for Now Playing Event April 12, 2017.
