@@ -36,3 +36,6 @@ Python notebook using pandas and sql to analyze an activity log.
 
 ### [MatchingNonMatchingSQL](MatchingNonMatchingSQL)
 Python notebook using sql and pandas to illustrate 1) converting columns to rows in a sql table, and 2) joining multiple tables with varying matching columns.  
+
+### [Location-Information](location-information)
+Python notebook illustrating how to use a python script to process health issues at geographical locations. Input and output files are in excel. 
